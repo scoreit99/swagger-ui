@@ -180,4 +180,7 @@
   "config": {
     "deps_check_dir": ".deps_check"
   }
+  "engines": {
+    "node": "14.x"
+  }
 }
